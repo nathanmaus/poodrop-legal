@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["9J3NWHNBU7.com.poodrop.app"],
+        "components": [
+          { "/": "/auth/action*" }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": ["9J3NWHNBU7.com.poodrop.app"]
+  }
+}
